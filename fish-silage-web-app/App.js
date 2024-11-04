@@ -44,7 +44,7 @@ export default function App() {
           }} 
         />
         <Tab.Screen 
-          name="Dashboard" 
+          name="Main" 
           component={Layout} 
           options={{
             tabBarLabel: ({ focused }) => (
